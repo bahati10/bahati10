@@ -1,9 +1,9 @@
 ### Hi 👋 Am Bahati Yves
 
-🌱 I’m currently learning Node.js and Computer networking
-👯 I’m looking to collaborate on passionate devs
-🤔 I’m looking for help with learning new things.
-📫 How to reach me: ...
+🌱 I’m currently learning Node.js and Computer networking <br>
+👯 I’m looking to collaborate on passionate devs <br>
+🤔 I’m looking for help with learning new things. <br>
+
 
 
 
